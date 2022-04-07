@@ -3,5 +3,4 @@
 ### Perhaps you would like to check out some of my projects?
 + Robotics for [FTC Team 17334 (Panthera Robótica)](https://github.com/panthera2021)
 
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXbQ1kpdsa9FU?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-</iframe>
+![Metrics](https://metrics.lecoq.io/JJTech0130?template=classic&stars=1&followup=1&activity=1&introduction=1&notable=1&lines=1&stars.limit=4&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=America%2FNew_York)
