@@ -1,2 +1,4 @@
 title: JJTech
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
