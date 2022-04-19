@@ -1,4 +1,6 @@
 title: JJTech
 theme: jekyll-theme-minimal
+whitelist:
+  - jekyll-redirect-from
 plugins:
   - jekyll-redirect-from
